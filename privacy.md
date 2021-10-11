@@ -23,7 +23,7 @@ _Notwendig für die Nutzung von Bot-Befehlen durch Mitglieder_
 * /
 
 _Notwendig für das Zuweisen von Rollen (Spiele, Farben) und Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #welcome #bitte_lies_mich - <https://zira.gg/>
+* Zira - Zugriff auf #welcome #bitte_lies_mich #uids - <https://zira.gg/>
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
