@@ -7,13 +7,12 @@ Die „Verifizierungsstufe“ ist auf „Mittel“ (Muss länger als 5 Minuten a
 Es werden die Möglichkeiten von Discord selbst („Audit-Log“) genutzt und Beitritt/Austritt des Discord-Servers („#welcome“-Channel) protokoliert. Es findet keine direkte Verarbeitung oder weitgehende Speicherung (von z.B. gelöschten Nachrichten) durch uns statt.
 
 ### Bots und Apps
-Alle Bots sind in sämtlichen Channeln mit potenzieller Userinteraktion ausgeschlossen und können somit keine Nachrichten mitlesen/mitspeichern oder Unterhaltungen mithören. 
-Mögliche Daten die Bots von euch speichern könnten wären z.B. Nickname, zugewiesene Rollen, Datum des Beitritts oder Datum des Austritts.
+Alle Bots sind in Channeln mit potenzieller Userinteraktion ausgeschlossen und können somit keine Nachrichten mitlesen/mitspeichern oder Unterhaltungen mithören. Ausnahme hiervon wäre der Channel „#uids“, welcher jedoch lediglich zum Senden der Genshin Impact UID gedacht ist und nicht zur Kommunikation von Personen. Mögliche Daten die Bots von euch speichern könnten wären z.B. Nickname, zugewiesene Rollen, Datum des Beitritts oder Datum des Austritts.
 
 **Eine Aufschlüsselung für welchen Zweck wir welche Bots nutzen, seht ihr wie folgt:**
 
 _Notwendig für Erstellung von Einladungen & Anzeige auf Webseiten_
-* DISBOARD - Zugriff auf #welcome - <https://disboard.org/>
+* DISBOARD - Zugriff auf #eingangshalle - <https://disboard.org/>
 
 _Notwendig für das Posten von automatisierten Ankündigungen_
 * Ganyu - Zugriff auf #ankuendigungen #bot_spam - <https://genshin.honeyhunterworld.com/ganyu-bot/>
@@ -23,7 +22,7 @@ _Notwendig für die Nutzung von Bot-Befehlen durch Mitglieder_
 * /
 
 _Notwendig für das Zuweisen von Rollen (Spiele, Farben) und Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #welcome #bitte_lies_mich #ressourcen #uids - <https://zira.gg/>
+* Zira - Zugriff auf #eingangshalle #bitte_lies_mich #ressourcen #uids - <https://zira.gg/>
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
