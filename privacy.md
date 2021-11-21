@@ -21,8 +21,9 @@ _Notwendig für das Posten von automatisierten Ankündigungen_
 _Notwendig für die Nutzung von Bot-Befehlen durch Mitglieder_
 * /
 
-_Notwendig für das Zuweisen von Rollen (Spiele, Farben) und Beitritt/Austritt-Nachrichten_
+_Notwendig für das Zuweisen von Rollen (Spiele, Farben) & Beitritt/Austritt-Nachrichten_
 * Zira - Zugriff auf #eingangshalle #bitte_lies_mich #ressourcen #uids - <https://zira.gg/>
+* Reacts - Zugriff auf #bitte_lies_mich - <https://top.gg/de/bot/550613223733329920>
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
