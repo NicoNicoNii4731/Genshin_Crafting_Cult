@@ -15,14 +15,14 @@ _Notwendig für Erstellung von Einladungen & Anzeige auf Webseiten_
 * DISBOARD - Zugriff auf #eingangshalle - <https://disboard.org/>
 
 _Notwendig für das Posten von automatisierten Ankündigungen_
-* Ganyu - Zugriff auf #ankuendigungen #bot_spam - <https://genshin.honeyhunterworld.com/ganyu-bot/>
+* MonitoRSS - Zugriff auf #ankuendigungen - <https://monitorss.xyz/>
 * FreeStuff - Zugriff auf #free-games - <https://freestuffbot.xyz/>
 
 _Notwendig für die Nutzung von Bot-Befehlen durch Mitglieder_
 * /
 
 _Notwendig für das Zuweisen von Rollen (Spiele, Farben) & Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #eingangshalle #bitte_lies_mich #ressourcen #uids - <https://zira.gg/>
+* Zira - Zugriff auf #eingangshalle #bitte_lies_mich #ueber_uns #roles #ressourcen #uids - <https://zira.gg/>
 * Reacts - Zugriff auf #bitte_lies_mich - <https://top.gg/de/bot/550613223733329920>
 
 ### Recht auf Auskunft
