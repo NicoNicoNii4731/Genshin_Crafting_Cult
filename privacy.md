@@ -11,19 +11,22 @@ Alle Bots sind in Channeln mit potenzieller Userinteraktion ausgeschlossen und k
 
 **Eine Aufschlüsselung für welchen Zweck wir welche Bots nutzen, seht ihr wie folgt:**
 
-_Notwendig für Erstellung von Einladungen & Anzeige auf Webseiten_
+_Notwendig für das Erstellung von Einladungen & Anzeige/Werbung auf Webseiten_
 * DISBOARD - Zugriff auf #eingangshalle - <https://disboard.org/>
 
-_Notwendig für das Posten von automatisierten Ankündigungen_
+_Notwendig für das Schreiben von automatisierten Ankündigungen_
 * MonitoRSS - Zugriff auf #ankuendigungen - <https://monitorss.xyz/>
 * FreeStuff - Zugriff auf #free-games - <https://freestuffbot.xyz/>
 
-_Notwendig für die Nutzung von Bot-Befehlen durch Mitglieder_
-* /
+_Notwendig für den Spamschutz & Authenzifikation_
+* Easy Auth - Zugriff auf #auth - <https://top.gg/bot/735870441981214743>
 
-_Notwendig für das Zuweisen von Rollen (Spiele, Farben) & Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #eingangshalle #bitte_lies_mich #ueber_uns #roles #ressourcen #uids - <https://zira.gg/>
+_Notwendig für das Zuweisen von Rollen anhand Reaktionen wie z.B. Verifizierung & Farben_
+* Zira - Zugriff auf #bitte_lies_mich - <https://zira.gg/>
 * Reacts - Zugriff auf #bitte_lies_mich - <https://top.gg/de/bot/550613223733329920>
+
+_Notwendig für das Schreiben von Nachrichten wie z.B. Beitritt/Austritt-Nachrichten_
+* Zira - Zugriff auf #auth #eingangshalle #bitte_lies_mich #ueber_uns #ressourcen #uids - <https://zira.gg/>
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
