@@ -12,7 +12,7 @@ Alle Bots sind in Channeln mit potenzieller Userinteraktion ausgeschlossen und k
 **Eine Aufschlüsselung für welchen Zweck wir welche Bots nutzen, seht ihr wie folgt:**
 
 _Notwendig für das Erstellung von Einladungen & Anzeige/Werbung auf Webseiten_
-* DISBOARD - Zugriff auf #eingangshalle - <https://disboard.org/>
+* DISBOARD - Zugriff auf #warpstation - <https://disboard.org/>
 
 _Notwendig für das Schreiben von automatisierten Ankündigungen_
 * MonitoRSS - Zugriff auf #ankuendigungen - <https://monitorss.xyz/>
@@ -26,7 +26,7 @@ _Notwendig für das Zuweisen von Rollen anhand Reaktionen wie z.B. Verifizierung
 * Reacts - Zugriff auf #profilkonfiguration - <https://top.gg/de/bot/550613223733329920>
 
 _Notwendig für das Schreiben von Nachrichten wie z.B. Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #auth #hilfe #eingangshalle #bitte_lies_mich #ueber_uns #profilkonfiguration #ressourcen #uids  - <https://zira.gg/>
+* Zira - Zugriff auf #auth #hilfe #warpstation #bitte_lies_mich #ueber_uns #profilkonfiguration #ressourcen #uids  - <https://zira.gg/>
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
