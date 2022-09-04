@@ -22,11 +22,11 @@ _Notwendig für den Spamschutz & Authenzifikation_
 * Easy Auth - Zugriff auf #auth - <https://top.gg/bot/735870441981214743>
 
 _Notwendig für das Zuweisen von Rollen anhand Reaktionen wie z.B. Verifizierung & Farben_
-* Zira - Zugriff auf #bitte_lies_mich - <https://zira.gg/>
-* Reacts - Zugriff auf #profilkonfiguration - <https://top.gg/de/bot/550613223733329920>
+* Zira - Zugriff auf #bitte_lies_mich #profilkonfiguration #genshin_impact - <https://zira.gg/>
+* Reacts - Zugriff auf #profilkonfiguration #genshin_impact - <https://top.gg/de/bot/550613223733329920>
 
 _Notwendig für das Schreiben von Nachrichten wie z.B. Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #auth #hilfe #warpstation #bitte_lies_mich #ueber_uns #profilkonfiguration #ressourcen #uids  - <https://zira.gg/>
+* Zira - Zugriff auf #auth #hilfe #warpstation #bitte_lies_mich #ueber_uns #profilkonfiguration #ressourcen #uids - <https://zira.gg/>
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
