@@ -7,7 +7,11 @@ Die „Verifizierungsstufe“ ist auf „Mittel“ (Muss länger als 5 Minuten a
 Es werden die Möglichkeiten von Discord selbst („Audit-Log“) genutzt und Beitritt/Austritt des Discord-Servers („#welcome“-Channel) protokoliert. Es findet keine direkte Verarbeitung oder weitgehende Speicherung (von z.B. gelöschten Nachrichten) durch uns statt.
 
 ### Bots und Apps
-Alle Bots sind in Channeln mit potenzieller Userinteraktion ausgeschlossen und können somit keine Nachrichten mitlesen/mitspeichern oder Unterhaltungen mithören. Ausnahme hiervon wäre der Channel „#uids“, welcher jedoch lediglich zum Senden der Genshin Impact UID gedacht ist und nicht zur Kommunikation von Personen. Mögliche Daten die Bots von euch speichern könnten wären z.B. Nickname, zugewiesene Rollen, Datum des Beitritts oder Datum des Austritts.
+Alle Bots sind in Channeln mit potenzieller Userinteraktion nicht zugelassen und können somit keine Nachrichten mitlesen/mitspeichern oder Unterhaltungen mithören, soweit es die Möglichkeiten von Discord zulassen. Ausnahme hiervon wären die Channel „#uids“ und „#genshin_wizard-bot“:
+* „#uids“ - Lediglich zum Senden der Genshin Impact UID gedacht und nicht zur Kommunikation von Personen.
+* „#genshin_wizzard-bot“ - Benutzung von Botbefehlen und nicht direkt zur Kommunikation von Personen.
+
+Mögliche Daten die Bots von euch speichern könnten wären z.B. Nickname, zugewiesene Rollen, Datum des Beitritts oder Datum des Austritts.
 
 **Eine Aufschlüsselung für welchen Zweck wir welche Bots nutzen, seht ihr wie folgt:**
 
@@ -27,6 +31,9 @@ _Notwendig für das Zuweisen von Rollen anhand Reaktionen wie z.B. Verifizierung
 
 _Notwendig für das Schreiben von Nachrichten wie z.B. Beitritt/Austritt-Nachrichten_
 * Zira - Zugriff auf #auth #hilfe #warpstation #bitte_lies_mich #ueber_uns #profilkonfiguration #ressourcen #uids - <https://zira.gg/>
+
+_Anzeigen von Genshin Impact Profilen inkl. weiteren nützlichen Funktionen in Bezug zu Genshin Impact_
+* Genshin Wizard - Zugriff auf #serverzeit #aktuelle_domains #genshin_wizard-bot - https://genshinwizard.com/
 
 ### Recht auf Auskunft
 Nach Art. 15 DSGVO ist sich bitte bei den jeweiligen Betreibern der Bots oder Discord selber zu melden, wenn ihr eine genaue Auskunft über eure Daten erheben möchtet.
