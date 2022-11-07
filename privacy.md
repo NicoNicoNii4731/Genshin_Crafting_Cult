@@ -27,7 +27,7 @@ _Notwendig für den Spamschutz & Authenzifikation_
 
 _Notwendig für das Zuweisen von Rollen anhand Reaktionen wie z.B. Verifizierung & Farben_
 * Zira - Zugriff auf #bitte_lies_mich #profilkonfiguration #genshin_impact - <https://zira.gg/>
-* Reacts - Zugriff auf #profilkonfiguration #genshin_impact - <https://top.gg/de/bot/550613223733329920>
+* Reacts - Zugriff auf #profilkonfiguration #genshin_impact - <https://github.com/SunkenSplash/Reacts-Information>
 
 _Notwendig für das Schreiben von Nachrichten wie z.B. Beitritt/Austritt-Nachrichten_
 * Zira - Zugriff auf #auth #hilfe #warpstation #bitte_lies_mich #ueber_uns #profilkonfiguration #ressourcen #uids - <https://zira.gg/>
