@@ -1,4 +1,6 @@
 # Ressources
+
+#### [OBS Studio](https://obsproject.com/download)
 #### [Genshin_Impact.json](https://raw.githubusercontent.com/NicoNicoNii4731/Genshin_Crafting_Cult/main/OBS_Stream/Genshin_Impact.json)
 
 #### Banner.jpg
@@ -38,6 +40,7 @@
 ![](/OBS_Stream/Tutorial/09.png)
 
 ### Step 10
+https://studio.youtube.com/channel/UC/livestreaming
 ![](/OBS_Stream/Tutorial/10.png)
 
 ### Step 11
