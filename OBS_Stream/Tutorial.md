@@ -13,6 +13,7 @@
 </br>
 
 # Tutorial
+
 ### Step 01
 Download the latest version of [OBS Studio](https://obsproject.com/download) and [CoreAudio AAC / QTfiles64](https://github.com/AnimMouse/QTFiles/releases). "CoreAudio AAC" aka qaac results in much higher audio quality than default ffmpeg AAC.
 Extract every .dll-File from "QTfiles64.7z" to your OBS folder, e.g. "C:\Program Files\obs-studio\bin\64bit".
