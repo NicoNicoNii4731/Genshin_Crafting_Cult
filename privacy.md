@@ -1,7 +1,7 @@
 ## Ausführliche Datenschutzhinweise zum Discord-Server „Genshin Crafting Cult“
 
 ### Server-Einstellungen
-Die „Verifizierungsstufe“ ist auf „Mittel“ (Muss länger als 5 Minuten auf Discord registriert sein & über eine verifizierte E-Mail-Adresse auf dem Discord-Account verfügen) eingestellt. Der „Filter für anstößige Medieninhalte“ ist auf „Nachrichten von allen Mitgliedern filtern“ eingestellt, da die Funktion „Community“ aktiviert ist und diese voraussetzt. Die „Region“ der Sprachkanäle ist auf „Europe“ eingestellt.
+Die „Verifizierungsstufe“ ist auf „Mittel“ (Muss länger als 5 Minuten auf Discord registriert sein & über eine verifizierte E-Mail-Adresse auf dem Discord-Account verfügen) eingestellt. Der „Filter für anstößige Medieninhalte“ ist auf „Nachrichten von allen Mitgliedern filtern“ eingestellt, da die Funktion „Community“ aktiviert ist und das für diese Voraussetzung ist. Die „Region“ der Sprachkanäle ist auf „Europe“ eingestellt.
 
 ### Protokollierung
 Es werden die Möglichkeiten von Discord selbst („Audit-Log“) genutzt und Beitritt/Austritt des Discord-Servers („#eingangshalle“-Channel) protokoliert. Es findet keine direkte Verarbeitung oder weitgehende Speicherung (von z.B. gelöschten Nachrichten) durch uns statt.
