@@ -26,7 +26,7 @@ _Notwendig für den Spamschutz & Authenzifikation_
 * Easy Auth - Zugriff auf #auth - <https://top.gg/bot/735870441981214743>
 
 _Notwendig für das Schreiben von Nachrichten wie z.B. Beitritt/Austritt-Nachrichten_
-* Zira - Zugriff auf #auth #support #eingangshalle #ueber_uns #ressourcen #uids - <https://zira.gg/>
+* Zira - Zugriff auf #auth #support #eingangshalle #ressourcen #uids - <https://zira.gg/>
 
 _Anzeigen von Genshin Impact Profilen inkl. weiteren nützlichen Funktionen in Bezug zu Genshin Impact_
 * Genshin Wizard - Zugriff auf #serverzeit #aktuelle_domains #genshin_wizard-bot - https://genshinwizard.com/
